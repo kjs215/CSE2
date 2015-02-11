@@ -32,7 +32,7 @@ public class Bicycle{
         
         //Prints average miles per hour
         int nHours=nMinutes/60;
-        double avgMPH= distanceTrip/nHours;
+        double avgMPH= distanceTrip/n;
          System.out.println("The average mph was "+avgMPH+" ");
         
     }
